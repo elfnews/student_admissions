@@ -1,2 +1,2 @@
-# student_admissions
+# Student Admissions
 Analyze student data using neural network
